@@ -4,9 +4,11 @@ In this project, a 24-hour clock is made through the use of integrated circuits 
 
 ## Photographic evidence
 LabVIEW circuit:
+
 ![1](https://github.com/DanielOrozcoA/Secuencias-de-LEDs/assets/152805004/2b7ad621-e209-43df-931f-1014b13c8a50)
 
 Real circuit:
+
 ![RelojCircuit](https://github.com/DanielOrozcoA/Secuencias-de-LEDs/assets/152805004/81822c21-346c-4048-b523-8336a765e59b)
 
 ## Author
